@@ -10,7 +10,7 @@ Due to the bad performance of python, many things have been deleted.
 
 I rewrite this game because I think rhythm games are not good enough without custom games.
 
-Oxynoe's skill has been editted because it is too similar to crawler.
+Oxynoe's skill has been edited because it is too similar to crawler's one.
 
 ## compiling
 
