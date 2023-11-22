@@ -9,6 +9,9 @@ A wholly rewritten version of the game Animdustry.
 Due to the bad performance of python, many things have been deleted.
 
 I rewrite this game because I think rhythm games are not good enough without custom games.
+
+Oxynoe's skill has been editted because it is too similar to crawler.
+
 ## compiling
 
 No mobile phone support.
@@ -22,3 +25,5 @@ Run `main.py`.
 all assets have been cited.
 
 Others are programmed by me.
+
+This program is a homework for University of Science and Technology of China Computer Programming & Computational Thinking Class.
